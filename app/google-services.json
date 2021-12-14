@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965213952144",
+    "project_id": "foodapp-f2d17",
+    "storage_bucket": "foodapp-f2d17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965213952144:android:a4f5d6e8b25e537bbfe015",
+        "android_client_info": {
+          "package_name": "com.kevinyou.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965213952144-ld28qokduja8pcsn7q6oaqonacovek1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevinyou.groceryapp",
+            "certificate_hash": "973001c873f4c190112e3bb973ae65dcbd23e3f1"
+          }
+        },
+        {
+          "client_id": "965213952144-19qeiocdqsquutt2tibi4j9a3h3aom2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLTtVoJZawJp35uqZtZJPt5rlRxCzqqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965213952144-19qeiocdqsquutt2tibi4j9a3h3aom2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

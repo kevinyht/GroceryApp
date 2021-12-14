@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">groceryapp</string>
+    <string name="banner">Get your groceries with Nectar</string>
+    <string name="comment">Or connect with social media</string>
+    <string name="comment_google">Continue with Google</string>
+    <string name="comment_facebook">Continue with Facebook</string>
+    //facebook login
+    <string name="facebook_app_id">1130230247465209</string>
+    <string name="fb_login_protocol_scheme">fb1130230247465209</string>
+
+    <string name="product_name">product name</string>
+    <string name="price">price</string>
+    <string name="btn_Retrofit">Retrofit</string>
+    <string name="btn_SignOut">Sign out</string>
+    <string name="btn_revoke">Revoke</string>
+    <string name="exclusive_offer">Exclusive Offer</string>
+    <string name="btn_seeAll">See all</string>
+    <string name="my_cart">My Cart</string>
+
+
+</resources>
